@@ -1,5 +1,5 @@
 # Titanic-MLfromDisaster
-A ML learning approach with increasing complexity.
+A ML learning project with increasing complexity.
 
 2 approaches. The second approach cultivated better results.
 
